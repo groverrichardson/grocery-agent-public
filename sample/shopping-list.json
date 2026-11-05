@@ -1,0 +1,20 @@
+[
+ {
+  "name": "butter",
+  "id": "sample-reminder-1",
+  "done": false,
+  "body": ""
+ },
+ {
+  "name": "Flashlight batteries",
+  "id": "sample-reminder-2",
+  "done": false,
+  "body": ""
+ },
+ {
+  "name": "Unicorn tonic",
+  "id": "sample-reminder-3",
+  "done": false,
+  "body": ""
+ }
+]

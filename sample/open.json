@@ -1,0 +1,18 @@
+{
+ "instacart": {
+  "source": "instacart",
+  "items": []
+ },
+ "walmart": {
+  "source": "walmart",
+  "items": []
+ },
+ "cart_instacart": {
+  "source": "cart_instacart",
+  "items": []
+ },
+ "cart_walmart": {
+  "source": "cart_walmart",
+  "items": []
+ }
+}

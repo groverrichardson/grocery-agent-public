@@ -1,0 +1,15 @@
+{
+ "title": "Sample Skincare Daily Healing Body Lotion for Dry Skin, Vitamin Blend, 2 fl oz",
+ "note": "Made-up product names. Same shape as a real page: the title, then Add buttons. Recommended products come first and share the title's first 40 characters. 'in_cart' has no exact button, because a product already in the cart shows a quantity stepper.",
+ "in_cart": [
+  "Add to cart - Sample Skincare Shea Whip Scented Body Lotion, 14 fl oz",
+  "Add to cart - Sample Skincare Daily Healing Body Lotion for Dry Skin, 22.6 fl oz",
+  "Add to cart - Sample Skincare Daily Healing Body Lotion for Dry Skin, Fragrance Free, 22.6 fl oz"
+ ],
+ "not_in_cart": [
+  "Add to cart - Sample Skincare Shea Whip Scented Body Lotion, 14 fl oz",
+  "Add to cart - Sample Skincare Daily Healing Body Lotion for Dry Skin, 22.6 fl oz",
+  "Add to cart - Sample Skincare Daily Healing Body Lotion for Dry Skin, Fragrance Free, 22.6 fl oz",
+  "Add to cart - Sample Skincare Daily Healing Body Lotion for Dry Skin, Vitamin Blend, 2 fl oz"
+ ]
+}

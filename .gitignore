@@ -1,0 +1,16 @@
+# Real household data stays on the Mac. Only made-up data in sample/ is tracked.
+/history*.jsonl
+/open*.json
+/raw/
+/snapshots/
+/attempts.md
+/runlog.jsonl
+/receiver.log
+/feedback.jsonl
+/fill-*
+/resolved-*
+/next-week.md
+/rem/rem
+__pycache__/
+.pytest_cache/
+.DS_Store

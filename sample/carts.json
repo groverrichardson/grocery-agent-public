@@ -1,0 +1,16 @@
+{
+ "ALDI": {
+  "items": []
+ },
+ "Costco": {
+  "items": []
+ },
+ "Walmart": {
+  "items": [
+   [
+    "Sample Drinks Lemonade, 59 fl oz",
+    1
+   ]
+  ]
+ }
+}

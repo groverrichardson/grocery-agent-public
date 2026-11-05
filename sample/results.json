@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "reminder": "sample-reminder-1",
+   "store": "ALDI",
+   "item": "butter",
+   "product": "Sample Dairy Salted Butter Sticks, 16 oz",
+   "qty": 1
+  },
+  {
+   "reminder": null,
+   "store": "Costco",
+   "item": "Sample Bulk Kitchen Rolls, 12 ct",
+   "product": "Sample Bulk Kitchen Rolls, 12 ct",
+   "qty": 1
+  }
+ ],
+ "skipped": [
+  {
+   "reminder": "sample-reminder-2",
+   "store": "Walmart",
+   "item": "Flashlight batteries",
+   "product": "Sample Power AA Batteries, 16 pack",
+   "qty": 1
+  }
+ ],
+ "not_found": [
+  {
+   "reminder": "sample-reminder-3",
+   "store": null,
+   "item": "Unicorn tonic",
+   "product": null,
+   "qty": 1
+  }
+ ]
+}

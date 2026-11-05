@@ -1,0 +1,15 @@
+{
+ "title": "Sample Snacks Stacked Butter Crackers, Travel Pack, 11.8 oz (8 Packs)",
+ "note": "Made-up product names. Same shape as a real page: the title, then Add buttons. Recommended products come first and share the title's first 40 characters. 'in_cart' has no exact button, because a product already in the cart shows a quantity stepper.",
+ "in_cart": [
+  "Add to cart - Other Brand Wheat Snack Crackers, 8 oz",
+  "Add to cart - Sample Snacks Stacked Butter Crackers, Travel Pack, Family Size, 17.8 oz (12 Packs)",
+  "Add to cart - Sample Snacks Stacked Herb Crackers, Travel Pack, 11.8 oz (8 Packs)"
+ ],
+ "not_in_cart": [
+  "Add to cart - Other Brand Wheat Snack Crackers, 8 oz",
+  "Add to cart - Sample Snacks Stacked Butter Crackers, Travel Pack, Family Size, 17.8 oz (12 Packs)",
+  "Add to cart - Sample Snacks Stacked Herb Crackers, Travel Pack, 11.8 oz (8 Packs)",
+  "Add to cart - Sample Snacks Stacked Butter Crackers, Travel Pack, 11.8 oz (8 Packs)"
+ ]
+}
